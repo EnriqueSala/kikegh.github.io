@@ -1,0 +1,61 @@
+
+@import '_varriable.scss';
+@import '_mixins.scss';
+@import 'extend';
+@import '_responsive.scss';
+@import 'theme-default.scss';
+@import '_btn';
+@import '_section_title';
+@import '_slick-nav.scss';
+
+
+
+// header
+@import 'header';
+
+// slider
+@import 'slider';
+
+// about
+@import 'about';
+
+// counter
+@import 'counter';
+
+// gallery
+@import '_gallery';
+@import '_music_area';
+
+// about
+@import 'offers';
+// about
+@import 'footer';
+
+@import 'bradcam';
+
+@import 'department';
+
+@import 'tesmonial';
+
+@import 'service';
+
+@import 'experts';
+
+@import 'video';
+
+
+// other pages default
+
+// contact
+@import 'contact';
+
+// elements
+@import '_elements.scss';
+
+// blog
+@import 'blog';
+
+
+// blog part
+@import 'blog_part';
+
